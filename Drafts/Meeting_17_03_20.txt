@@ -1,0 +1,13 @@
+
+Explain that features are missing within the model and where they are how to fix
+Suggest adding a breakwater or further measures
+Extending a break water to accomodate
+Add more to the conclusion
+Last sentence within the Abstract needs to be fixed and finalised
+
+Threshold velocity for the particle size, find the sediment size, then you can find the threshold velocities. Use a formula for the sediment transport
+Move more of the images side by side
+Change angle for the flow pattern
+Finalise results with 
+
+Send both/ either code. 
